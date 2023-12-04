@@ -1,13 +1,10 @@
 #include <TinyWireM.h>
 #include <TM1637Display.h>
-
 const int CLK = 0;
 const int DIO = 1;
 TM1637Display display(CLK, DIO);
-
 const int BUTTON_PIN_INC = 2;
 const int BUTTON_PIN_RESET = 4;
-
 int counter = 0;
 int buttonStateInc = 0;
 int buttonStateReset = 0;
