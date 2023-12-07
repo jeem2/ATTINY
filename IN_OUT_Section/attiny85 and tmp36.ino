@@ -1,6 +1,6 @@
 #include <TinyWireM.h>
 #include  <TM1637Display.h>
-#define TEMP_PIN3
+#define TEMP_PIN 3
 const int CLK = 0; 
 const int DIO = 1;
 TM1637Display display(CLK,DIO);
