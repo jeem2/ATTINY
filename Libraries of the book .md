@@ -15,7 +15,7 @@
 
 [RTClib](https://github.com/adafruit/RTClib/archive/refs/heads/master.zip )
 
-[IRRemote](https://github.com/Arduino/IRremote/ArduinoIRremote/archive/refs/heads/master.zip)
+[IRRemote](https://github.com/Arduino-IRremote/Arduino-IRremote/archive/refs/heads/master.zip)
 
 [RF24](https://downloads.arduino.cc/libraries/github.com/TMRh20/RF24-1.4.0.zip )
 
