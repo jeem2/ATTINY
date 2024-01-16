@@ -6,7 +6,6 @@
 - ![#AFEEFD](https://placehold.co/12x12/AFEEFD/AFEEFD.png) `هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)`
 - ![#c5f015](https://placehold.co/15x15/B5B1FB/B5B1FB.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
 
-
 ## روابط المكتبات التي ستحتاج اليها :
 |[TinyWireM](https://github.com/lucullusTheOnly/TinyWire/archive/refs/heads/master.zip)|[tm1637display](https://github.com/avishorp/TM1637/archive/refs/heads/master.zip)|[Ultrasonic](https://github.com/ErickSimoes/Ultrasonic/archive/refs/heads/master.zip)|[LCD I2C](https://github.com/johnrickman/LiquidCrystal_I2C/archive/refs/heads/master.zip )|
 |:--:|:--:|:--:|:---:|
