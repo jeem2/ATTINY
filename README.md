@@ -1,15 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/Syj152al2023/example/blob/main/12-30-2023%204-44-43%20AM.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">مرحباً بك في عالم الــ ATtiny</h2>
- <p align="center">دليلك  في الخطوات الأولى للمشاريع التطبيقية</p>
-  <p align="center">مؤسسة جيم تعمل على توفير مستلزمات الابتكار للطلاب و المهندسين من مكونات إلكترونية و أجهزة معامل و شروحات تقنية بأسعار مخفضة </p>
- 
 </p>
-
-# 
-
-
-
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
 
