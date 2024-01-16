@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="https://github.com/Syj152al2023/example/blob/main/4chips.png" align="left" alt="GitHub Readme Stats" />
+ <img width="200px" src="https://github.com/Syj152al2023/example/blob/main/4chips.png" align="left" alt="GitHub Readme Stats" />
  <h2 align="center">مرحباً بك في عالم الــ ATtiny</h2>
 </p>
 
