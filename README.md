@@ -1,6 +1,6 @@
 <p align="center">
- <img width="200px" src="https://github.com/Syj152al2023/example/blob/main/12-30-2023%204-44-43%20AM.png" align="left" alt="GitHub Readme Stats" />
- <h2 align="center">مرحباً بك في عالم الــ ATtiny</h2>
+ <img width="150px" src="https://github.com/Syj152al2023/example/blob/main/12-30-2023%204-44-43%20AM.png" align="left" alt="GitHub Readme Stats" />
+ <h2 align="right">مرحباً بك في عالم الــ ATtiny</h2>
 </p>
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)`
