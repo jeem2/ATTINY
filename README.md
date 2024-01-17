@@ -16,7 +16,7 @@
 ## بعض التمارين التطبيقية :
 |التمرين|الصفحة|وصف التمرين|ملاحظات|
 |-|:-:|-|:-:|
-|[Blinking-LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)|<span style="color:red">20</span>|تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
+|[Blinking-LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
 |[Traffic-lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24| تشغيل نموذج مشابه لإشارة المرور في تينكركاد|-|
 |[RGB-LED](https://www.tinkercad.com/things/hgyxGBA2a2L-rgb-blocks)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|البرمجة بالبلوكات|
 |[RGB-LED](https://www.tinkercad.com/things/czbC5K8vaHc-rgb-led)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|TEXT البرمجة بالـــ|
