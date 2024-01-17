@@ -16,9 +16,9 @@
 ## بعض التمارين التطبيقية :
 |التمرين|الصفحة|وصف التمرين|ملاحظات|
 |-|:-:|-|:-:|
-|[Blinking-LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد **في تينكركاد** بتواتر زمني معين يمكن تغيره|-|
-|[Traffic-lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24|**تشغيل نموذج مشابه لإشارة المرور **في تينكركاد|-|
-|[RGB-LED](https://www.tinkercad.com/things/hgyxGBA2a2L-rgb-blocks)|27|تشغيل الليد بعدة ألوان مختلفة **في تينكركاد**|البرمجة بالبلوكات|
+|[Blinking-LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
+|[Traffic-lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24| تشغيل نموذج مشابه لإشارة المرور في تينكركاد|-|
+|[RGB-LED](https://www.tinkercad.com/things/hgyxGBA2a2L-rgb-blocks)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|البرمجة بالبلوكات|
 |[RGB-LED](https://www.tinkercad.com/things/czbC5K8vaHc-rgb-led)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|TEXT البرمجة بالـــ|
 |[Buzzer](https://www.tinkercad.com/things/iWhiVzuycmy-buzzer)|29|إصدار عدة نغمات بترددات مختلفة في تينكركاد|-|
 |[Buzzer](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20Buzzer.ino)|30|إصدار عدة نغمات بترددات مختلفة على أرض الواقع|-|
@@ -61,4 +61,3 @@
 [AVR Programming: Learning to Write Software for Hardware (Make: Technology on Your Time)](https://www.amazon.com/AVR-Programming-Learning-SoftwareTechnology/dp/1449355781): The book explains how to use the AVR development environment and develop programs using the C language to achieve various functions using ATtiny.
 
 [Learn ATtiny85 microcontroller in 10 days](https://www.gadgetronicx.com/learn-attiny85-microcontroller/): A complete guide that covers and explains the basics of dealing with the ATtiny85 and explains the data sheet in detail
-
