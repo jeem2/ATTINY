@@ -1,9 +1,9 @@
 <p align="center">
  <img width="230px" src="https://github.com/Syj152al2023/example/blob/main/4chips.png" align="left" alt="GitHub Readme Stats" />
- <h2 align="center">مرحباً بك في عالم الــ ATtiny
+ <h2 align="center">مرحباً بك في عالم الــ ATtiny</h2>
 </p>
 
-- ![#AFEEFD](https://placehold.co/12x12/AFEEFD/AFEEFD.png) `هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)`
+- ![#AFEEFD](https://placehold.co/12x12/AFEEFD/AFEEFD.png) `<h3>هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)</h3>`
 - ![#c5f015](https://placehold.co/15x15/B5B1FB/B5B1FB.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
   
 
