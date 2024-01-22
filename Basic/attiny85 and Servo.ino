@@ -6,11 +6,13 @@ void setup() {
 }
 void loop() {
   for (position = 0; position <= 180; position++) {
-    setServoPosition(position); delay(15);
+    setServoPosition(position);
+    delay(15);
   }
   
   for (position = 180; position >= 0; position--) {
-    setServoPosition(position); delay(15);
+    setServoPosition(position);
+    delay(15);
   }
 }
 void setServoPosition(int angle) {
