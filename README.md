@@ -25,7 +25,6 @@
 |5|[Servo](https://www.tinkercad.com/things/gR0IVYRTuik-servo)|31|تشغيل محرك سيرفو من 0 إلى 180 في تينكركاد|-|
 |5|[Servo](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20Servo.ino)|32|تشغيل محرك سيرفو من 0 إلى 180 على أرض الواقع|-|
 |6|[DC-motor](https://www.tinkercad.com/things/jnqAVhdOUHd-dc-cwwc)|33|التحكم بسرعة و اتجاه محرك مستمر في تينكركاد|-|
-|6|[DC-motor](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20DC_motor.ino)|34|التحكم بسرعة و اتجاه محرك مستمر على أرض الواقع|-|
 |8|[Simple-counter](https://www.tinkercad.com/things/i2CtXz3Uj99-simple-counter)|39|عداد بسيط بزرين في تينكركاد،للعد التصاعدي و الإطفاء|-|
 |8|[Simple-counter](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/simple%20counter.ino)|40|عداد بسيط بزرين على أرض الواقع ،للعد التصاعدي و الإطفاء|يجب إضافة مكتبات|
 |9|[Potentiometer](https://www.tinkercad.com/things/lDjEaGH27qM-pot)|41|فراءة قيم المقاومة المتغيرة في تينكركاد|-|
