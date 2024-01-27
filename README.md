@@ -27,7 +27,7 @@
 |6|[DC-motor](https://www.tinkercad.com/things/jnqAVhdOUHd-dc-cwwc)|33|التحكم بسرعة و اتجاه محرك مستمر في تينكركاد|-|
 |8|[Simple-counter](https://www.tinkercad.com/things/i2CtXz3Uj99-simple-counter)|39|عداد بسيط بزرين في تينكركاد،للعد التصاعدي و الإطفاء|-|
 |8|[Simple-counter](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/simple%20counter.ino)|40|عداد بسيط بزرين على أرض الواقع ،للعد التصاعدي و الإطفاء|يجب إضافة مكتبات|
-|9|[Potentiometer](https://www.tinkercad.com/things/lDjEaGH27qM-pot)|41|فراءة قيم المقاومة المتغيرة في تينكركاد|-|
+|9|[Potentiometer](https://www.tinkercad.com/things/lDjEaGH27qM-pot)|41|قراءة قيم المقاومة المتغيرة في تينكركاد|-|
 |10|[TMP36](https://www.tinkercad.com/things/gSMH9wduSwo-temp)|43| في تينكركادTMP36 قراءة قيم حساس الحرارة|-|
 |10|[TMP36](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny85%20and%20tmp36.ino)|44| على أرض الواقعTMP36 قراءة قيم حساس الحرارة|يجب إضافة مكتبات|
 |11|[LRD](https://www.tinkercad.com/things/8e2comgKyPg-ldr)|45|قراءة قيم المقاومة الضوئية في تينكركاد|-|
