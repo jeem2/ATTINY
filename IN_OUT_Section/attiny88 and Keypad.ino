@@ -11,6 +11,7 @@ char keys[ROW_NUM][COL_NUM] = {
 {'*','0','#','D'}  };
 byte pin_rows[ROW_NUM] = {9, 8, 7, 6};
 byte pin_column[COL_NUM] = {5, 4, 3, 2};
+// This line creates an instance of the Keypad class called keypad to create the keymap for the keypad 
 Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COL_NUM );
 void setup(){
   lcd.init();
