@@ -47,7 +47,8 @@
 
 [GreatScott!](https://www.youtube.com/@greatscottlab): A YouTube channel that covers various electronic projects and contains many videos specifically focused on ATtiny. 
 
-[useful vid about attiny85](https://youtu.be/5bnXeHz06Ck):A video that talks in detail about i2c and spi for attiny85
+[Useful vid about attiny85](https://youtu.be/5bnXeHz06Ck):A video that talks in detail about i2c and spi for attiny85
+[Another useful vid about attiny85](https://youtu.be/N591sLGYWnM): Learning about registers and how to write on them directly.
 
 ### Websites :
 [myMicrochip](https://www.microchip.com/): The ATtiny manufacturer's website contains all the data sheets for the various versions
